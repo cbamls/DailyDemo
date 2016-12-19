@@ -1,0 +1,44 @@
+<beans
+        xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:aop="http://www.springframework.org/schema/aop"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xmlns:tx="http://www.springframework.org/schema/tx"
+        xmlns:p="http://www.springframework.org/schema/p"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context-4.0.xsd
+http://www.springframework.org/schema/aop
+     http://www.springframework.org/schema/aop/spring-aop-4.0.xsd
+     http://www.springframework.org/schema/tx
+     http://www.springframework.org/schema/tx/spring-tx-4.0.xsd">
+        <bean id="userDao" class="com.cbam.demo.aop.UserDaoImpl"/>
+        <bean id="log" class="com.cbam.demo.aop.Log"/>
+        <bean id="logUserDef" class="com.cbam.demo.aop.LogUserDef"/>
+        <bean id="service" class="com.cbam.demo.aop.UserServiceImpl" autowire="byName"/>
+
+        <bean class="com.cbam.demo.referenceAop.EncoreableIntroducer"/>
+        <bean id="perform" class="com.cbam.demo.referenceAop.Perform"/>
+        <!--<bean id="defaultEncore" class="com.cbam.demo.referenceAop.DefaultEncore"/>-->
+        <!--SpringAPI实现aop 如果使用一下三种方式同时配置 并不冲突-->
+        <aop:config>
+                <!--<aop:pointcut id="pointcut" expression="execution(* com.cbam.demo.aop.UserServiceImpl.getUser(..))"/>
+                  <aop:advisor advice-ref="log" pointcut-ref="pointcut"/>-->
+        </aop:config>
+        <!--自定义aop实现-->
+        <aop:config>
+
+                <aop:aspect ref="logUserDef">
+                        <!--配置切点-->
+                        <aop:pointcut  expression="execution(* com.cbam.demo.aop.UserServiceImpl.getUser(..)))" id="pointcut"/>
+                        <!--配置关注点所需要的切入点-->
+                        <aop:before method="before" pointcut-ref="pointcut"/>
+                        <aop:after method="after" pointcut-ref="pointcut"/>
+                        <aop:declare-parents types-matching="com.cbam.demo.referenceAop.Perform+" implement-interface="com.cbam.demo.referenceAop.Encoreable"
+                                             default-impl="com.cbam.demo.referenceAop.DefaultEncore"/>
+                </aop:aspect>
+        </aop:config>
+        <!--带注解的aop-->
+    <!--    <aop:aspectj-autoproxy/>-->
+</beans>
