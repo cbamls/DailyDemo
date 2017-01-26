@@ -31,6 +31,12 @@
         </repositories>
 
         <dependencies>
+            <!-- https://mvnrepository.com/artifact/io.netty/netty -->
+            <dependency>
+                <groupId>io.netty</groupId>
+                <artifactId>netty</artifactId>
+                <version>4.0.0.Alpha8</version>
+            </dependency>
 
             <!-- spring需要的jar包 -->
             <dependency>
@@ -106,6 +112,12 @@
                 <groupId>commons-dbcp</groupId>
                 <artifactId>commons-dbcp</artifactId>
                 <version>1.4</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>21.0</version>
             </dependency>
 
             <!-- jstl需要的jar包 -->
@@ -242,7 +254,15 @@
 
         </dependencies>
         <build>
-
+            <plugins>
+                <plugin>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <configuration>
+                        <source>1.8</source>
+                        <target>1.8</target>
+                    </configuration>
+                </plugin>
+            </plugins>
             <resources>
                 <resource>
                     <directory>src/main/java</directory>
