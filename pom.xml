@@ -37,6 +37,12 @@
                 <artifactId>netty</artifactId>
                 <version>4.0.0.Alpha8</version>
             </dependency>
+            <!-- https://mvnrepository.com/artifact/com.lmax/disruptor -->
+            <dependency>
+                <groupId>com.lmax</groupId>
+                <artifactId>disruptor</artifactId>
+                <version>3.3.6</version>
+            </dependency>
 
             <!-- spring需要的jar包 -->
             <dependency>
