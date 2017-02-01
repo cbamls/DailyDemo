@@ -43,14 +43,15 @@ public class LongEventMain {
 		
 		LongEventProducer producer = new LongEventProducer(ringBuffer); 
 		//LongEventProducerWithTranslator producer = new LongEventProducerWithTranslator(ringBuffer);
-		ByteBuffer byteBuffer = ByteBuffer.allocate(8);
-		for(long l = 0; l<100; l++){
-			byteBuffer.putLong(0, l);
+		ByteBuffer byteBuffer = ByteBuffer.allocate(16);
+		for(long l = 0; l<2; l++){
+			byteBuffer.putLong(((int) l), l);
 			producer.onData(byteBuffer);
-			//Thread.sleep(1000);
+			Thread.sleep(1000);
+			System.out.println("cbam");
 		}
 
-		
+		byteBuffer.flip();
 		disruptor.shutdown();//关闭 disruptor，方法会堵塞，直至所有的事件都得到处理；
 		executor.shutdown();//关闭 disruptor 使用的线程池；如果需要的话，必须手动关闭， disruptor 在 shutdown 时不会自动关闭；		
 		
