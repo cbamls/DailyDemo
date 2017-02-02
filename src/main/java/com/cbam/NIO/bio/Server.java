@@ -16,9 +16,14 @@ public class Server {
 			server = new ServerSocket(PROT);
 			System.out.println(" server start .. ");
 			//进行阻塞
+		while(true) {
 			Socket socket = server.accept();
+			System.out.println("开始睡眠");
+			//睡眠 我想看看多个客户端连接 在前一个客户端没有处理完成之前  当前客户端连接是否会阻塞
+			Thread.sleep(10000);
 			//新建一个线程执行客户端的任务
 			new Thread(new ServerHandler(socket)).start();
+		}
 			
 		} catch (Exception e) {
 			e.printStackTrace();

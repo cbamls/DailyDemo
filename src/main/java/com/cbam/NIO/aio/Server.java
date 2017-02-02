@@ -28,9 +28,10 @@ public class Server {
 			System.out.println("server start , port : " + port);
 			//进行阻塞
 			assc.accept(this, new ServerCompletionHandler());
+			System.out.println("验证不阻塞");
 			//一直阻塞 不让服务器停止
 			Thread.sleep(Integer.MAX_VALUE);
-			
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

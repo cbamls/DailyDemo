@@ -19,6 +19,7 @@ public class ServerHandler implements Runnable{
 		BufferedReader in = null;
 		PrintWriter out = null;
 		try {
+
 			in = new BufferedReader(new InputStreamReader(this.socket.getInputStream()));
 			out = new PrintWriter(this.socket.getOutputStream(), true);
 			String body = null;
