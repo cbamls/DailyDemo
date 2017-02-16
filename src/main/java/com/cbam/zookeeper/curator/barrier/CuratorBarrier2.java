@@ -56,7 +56,6 @@ public class CuratorBarrier2 {
 				}
 			},"t" + i).start();
 		}
-
 		Thread.sleep(5000);
 		barrier.removeBarrier();	//释放
 		
