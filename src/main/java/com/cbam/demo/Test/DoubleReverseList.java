@@ -1,5 +1,7 @@
 package com.cbam.demo.Test;
 
+import org.springframework.web.servlet.HttpServletBean;
+
 /**
  * CopyRright (c)2014-2016 Haerbin Hearglobal Co.,Ltd
  * Project: demo

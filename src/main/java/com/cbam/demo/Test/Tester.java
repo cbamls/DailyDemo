@@ -23,5 +23,6 @@ public class Tester {
 
         System.out.println(new Tester().getName());
         System.out.println(new Tester().name);
+
     }
 }
