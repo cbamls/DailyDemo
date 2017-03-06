@@ -13,10 +13,7 @@ package com.cbam.MultiThreadDemo.UseThreadPoll.concurrent019;
 
 import java.io.IOException;
 import java.util.Random;
-import java.util.concurrent.BrokenBarrierException;
-import java.util.concurrent.CyclicBarrier;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.concurrent.*;
 
 
 public class UseCyclicBarrier2 {
@@ -52,7 +49,7 @@ public class UseCyclicBarrier2 {
         executor.submit(new Thread(new Runner("zhangsan")));
         executor.submit(new Thread(new Runner("lisi")));
         executor.submit(new Thread(new Runner("wangwu")));
-
+        ThreadPoolExecutor
         executor.shutdown();
     }
 
