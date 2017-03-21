@@ -49,7 +49,6 @@ public class UseCyclicBarrier2 {
         executor.submit(new Thread(new Runner("zhangsan")));
         executor.submit(new Thread(new Runner("lisi")));
         executor.submit(new Thread(new Runner("wangwu")));
-        ThreadPoolExecutor
         executor.shutdown();
     }
 

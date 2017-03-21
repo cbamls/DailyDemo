@@ -1,5 +1,8 @@
 package com.cbam.MultiThreadDemo.lock020;
 
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -74,15 +77,11 @@ public class UseManyCondition {
 	}
 	
 	public static void main(String[] args) {
-		
-		
+		ConcurrentLinkedQueue concurrentLinkedQueue = new ConcurrentLinkedQueue();
 		final UseManyCondition umc = new UseManyCondition();
-		Thread t1 = new Thread(new Runnable() {
-			@Override
-			public void run() {
-				umc.m1();
-			}
-		},"t1");
+		Thread t1 = new Thread(() -> {
+            umc.m1();
+        },"t1");
 		Thread t2 = new Thread(new Runnable() {
 			@Override
 			public void run() {

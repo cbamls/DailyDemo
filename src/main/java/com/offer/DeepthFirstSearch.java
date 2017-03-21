@@ -41,6 +41,9 @@ public class DeepthFirstSearch {
 
     public static void main(String[] args) {
         dfs(1);
+        Thread thread = new Thread(() -> {
+            System.out.println("cbam");
+        });
         System.out.println(total);
     }
 
