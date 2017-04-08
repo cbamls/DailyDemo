@@ -16,13 +16,10 @@ import java.math.BigInteger;
  */
 public class Client {
     public static void main(String[] args) {
-//        Host host = new Host();
-//        ProxyInovationHandler proxyInovationHandler = new ProxyInovationHandler();
-//        proxyInovationHandler.setRent(host);
-//        Rent proxy = (Rent) proxyInovationHandler.getProxy();
-//        proxy.rent();
-
-        Integer integer = new Integer("30000000");
-        System.out.println(integer.hashCode());
+        Host host = new Host();
+        ProxyInovationHandler proxyInovationHandler = new ProxyInovationHandler();
+        proxyInovationHandler.setRent(host);
+        Rent proxy = (Rent) proxyInovationHandler.getProxy();
+        proxy.rent();
     }
 }

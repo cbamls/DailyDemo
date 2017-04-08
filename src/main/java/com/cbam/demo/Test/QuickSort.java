@@ -1,5 +1,8 @@
 package com.cbam.demo.Test;
 
+import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
+
 /**
  * CopyRright (c)2014-2016 Haerbin Hearglobal Co.,Ltd
  * Project: demo
@@ -63,6 +66,7 @@ public class QuickSort {
                 }
                 arr[high] = arr[low];
             }
+
             arr[low] = key;
             return low;
         }

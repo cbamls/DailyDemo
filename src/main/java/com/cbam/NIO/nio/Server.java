@@ -42,6 +42,7 @@ public class Server implements Runnable{
 			try {
 				//1 必须要让多路复用器开始监听
 				this.seletor.select();
+				System.out.println("非阻塞");
 				//2 返回多路复用器已经选择的结果集
 				Iterator<SelectionKey> keys = this.seletor.selectedKeys().iterator();
 				//3 进行遍历

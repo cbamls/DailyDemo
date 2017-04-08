@@ -10,7 +10,7 @@ package com.offer;
  * Modified Date:
  * Modified Reason:
  */
-public class BiShi {
+public class BiShi2 {
 
     /**
      * Resolve boolean.

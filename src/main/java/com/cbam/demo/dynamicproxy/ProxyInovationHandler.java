@@ -34,9 +34,9 @@ public class ProxyInovationHandler implements InvocationHandler {
      */
 
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+        common1();
         Object result = method.invoke(object, args);
-        common1();
-        common1();
+        common2();
         return result;
     }
 
