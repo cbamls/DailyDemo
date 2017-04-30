@@ -20,4 +20,7 @@ public class Parent {
     public void setStr(String str) {
         this.str = str;
     }
+    protected String getName() {
+        return str;
+    }
 }
