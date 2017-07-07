@@ -12,7 +12,7 @@ import java.util.Stack;
  * Modified Date:
  * Modified Reason:
  */
-public class Problem_03_ReverseStack {
+class Problem_03_ReverseStack {
 
     public  int getAndRemoveLastElement(Stack<Integer> stack) {
         int result = stack.pop();

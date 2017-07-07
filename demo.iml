@@ -32,6 +32,8 @@
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/cbam/netty_chat_demo" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/cbam/zookeeper" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/cbam/zookeeper/zkclient" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/wc" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/weibo" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
