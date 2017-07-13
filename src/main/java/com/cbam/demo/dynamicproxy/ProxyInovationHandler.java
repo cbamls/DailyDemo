@@ -1,5 +1,7 @@
 package com.cbam.demo.dynamicproxy;
 
+import com.qunar.proxy.Tran;
+
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
@@ -34,6 +36,9 @@ public class ProxyInovationHandler implements InvocationHandler {
      */
 
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+        if (method.isAnnotationPresent(Tran.class)) {
+            System.out.println("hhh");
+        }
         common1();
         Object result = method.invoke(object, args);
         common2();

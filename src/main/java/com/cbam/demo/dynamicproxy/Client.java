@@ -1,5 +1,7 @@
 package com.cbam.demo.dynamicproxy;
 
+import com.qunar.proxy.Tran;
+
 import java.math.BigInteger;
 
 /**
@@ -14,6 +16,7 @@ import java.math.BigInteger;
  *
  * 一个动态代理类一般代理一类业务
  */
+
 public class Client {
     public static void main(String[] args) {
         Host host = new Host();
