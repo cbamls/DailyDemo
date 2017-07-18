@@ -312,7 +312,18 @@ public class FindInArray {
             arr[i] = tmp;
         }
     }
-
+    static boolean flag[] = new boolean[100];
+    static char[] box = new char[100];
+    public static void testPermutation(char[] arr, int len) {
+        if(len == arr.length) {
+            System.out.println(box);
+            return ;
+        }
+        for(int i = 0; i < arr.length;  i++) {
+            box[len] = arr[i];
+            testPermutation(arr, len + 1);
+        }
+    }
     public static ListNode mergeList(ListNode pHead1, ListNode pHead2) {
         if (pHead1 == null) {
             return pHead2;
@@ -351,6 +362,59 @@ public class FindInArray {
         add(a);
         return a;
     }
+
+    public boolean hasCycle(ListNode head) {
+        ListNode fast = head;
+        ListNode slow  = head;
+        while(fast != null && fast .next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if(slow == fast) {
+                break;
+            }
+        }
+        return !(fast == null || fast.next == null);
+    }
+
+    public ListNode addTwoNumbers(ListNode head1, ListNode head2) {
+        if(head1 == null) {
+            return head2;
+        }
+        if(head2 == null) {
+            return head1;
+        }
+        ListNode newNode =  new ListNode(0);
+        ListNode root = newNode;
+        ListNode p1 = head1;
+        ListNode p2 = head2;
+        int carry = 0;
+        while(p1 != null && p2 != null) {
+            int sum = p1.val + p2.val + carry;
+            p1.val = sum % 10;
+            carry = sum / 10;
+            newNode.next = p1;
+            newNode = p1;
+            p1 = p1.next;
+            p2 = p2.next;
+        }
+        if(p1 == null) {
+            newNode.next  =  p2;
+        } else {
+            newNode.next = p1;
+        }
+        if(carry == 1) {
+            while (newNode.next != null) {
+                int sum = newNode.next.val + carry;
+                newNode.next.val = sum % 10;
+                carry = sum / 10;
+                newNode = newNode.next;
+            }
+        }
+        if(carry == 1) {
+            newNode.next = new ListNode(1);
+        }
+        return root;
+    }
     public static void main(String[] args) {
 //        char[] arr = new char[10];
 //        arr[0] = '1';
@@ -361,6 +425,8 @@ public class FindInArray {
         //       dfsDigit(3);
         //System.out.println((3 & 0x1) == 0);
 //        permutation2("123");
-        System.out.println(testAdd(2));;
+        //System.out.println(testAdd(2));;
+       // testPermutation(new char[]{'1', '2','3'}, 0);
+        dfsDigit(3);
     }
 }
