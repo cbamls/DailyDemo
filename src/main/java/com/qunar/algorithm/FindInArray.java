@@ -35,6 +35,7 @@ public class FindInArray {
         BinNode right;
 
         int val;
+
         public BinNode() {
         }
     }
@@ -254,38 +255,39 @@ public class FindInArray {
         while (!queue.isEmpty()) {
             BinNode rt = queue.poll();
             System.out.println(rt.val);
-            if(rt.left != null) {
+            if (rt.left != null) {
                 queue.add(rt.left);
             } else {
                 queue.add(rt.right);
             }
         }
     }
-    public static void permutation(String str){
-        int count=0;
-        if(str==null)
+
+    public static void permutation(String str) {
+        int count = 0;
+        if (str == null)
             return;
-        char[] chs=str.toCharArray();
-        int point=0;
+        char[] chs = str.toCharArray();
+        int point = 0;
         System.out.print(chs);
         System.out.print(" ");
         count++;
-        char temp1=chs[point];
-        chs[point]=chs[++point];
-        chs[point]=temp1;
-        while(!String.valueOf(chs).equals(str)){
+        char temp1 = chs[point];
+        chs[point] = chs[++point];
+        chs[point] = temp1;
+        while (!String.valueOf(chs).equals(str)) {
             System.out.print(chs);
             System.out.print(" ");
             count++;
-            if(point==chs.length-1){
-                char temp=chs[point];
-                chs[point]=chs[0];
-                chs[0]=temp;
-                point=0;
-            }else{
-                char temp=chs[point];
-                chs[point]=chs[++point];
-                chs[point]=temp;
+            if (point == chs.length - 1) {
+                char temp = chs[point];
+                chs[point] = chs[0];
+                chs[0] = temp;
+                point = 0;
+            } else {
+                char temp = chs[point];
+                chs[point] = chs[++point];
+                chs[point] = temp;
             }
         }
         System.out.println(count);
@@ -297,33 +299,40 @@ public class FindInArray {
     }
 
     public static void toPermutation(char[] arr, int index) {
-        if(index == arr.length - 1) {
+        if (index == arr.length - 1) {
             System.out.println(arr);
 
-            return ;
+            return;
         }
-        for(int i = index; i < arr.length; i++) {
+        for (int i = index; i < arr.length; i++) {
             char tmp = arr[index];
             arr[index] = arr[i];
             arr[i] = tmp;
-            toPermutation(arr, index  + 1);
+            toPermutation(arr, index + 1);
             tmp = arr[index];
             arr[index] = arr[i];
             arr[i] = tmp;
         }
     }
+
     static boolean flag[] = new boolean[100];
     static char[] box = new char[100];
+
     public static void testPermutation(char[] arr, int len) {
-        if(len == arr.length) {
+        if (len == arr.length) {
             System.out.println(box);
-            return ;
+            return;
         }
-        for(int i = 0; i < arr.length;  i++) {
-            box[len] = arr[i];
-            testPermutation(arr, len + 1);
+        for (int i = 0; i < arr.length; i++) {
+            if (!flag[i]) {
+                box[len] = arr[i];
+                flag[i] = true;
+                testPermutation(arr, len + 1);
+                flag[i] = false;
+            }
         }
     }
+
     public static ListNode mergeList(ListNode pHead1, ListNode pHead2) {
         if (pHead1 == null) {
             return pHead2;
@@ -339,16 +348,16 @@ public class FindInArray {
     }
 
     public static int treeDepth(BinNode root) {
-        if(root == null) {
+        if (root == null) {
             return 0;
         }
         int left = treeDepth(root.left);
         int right = treeDepth(root.right);
-        return left > right ?  left + 1 : right;
+        return left > right ? left + 1 : right;
     }
 
-    public static boolean isBalanced(BinNode root,  int len) {
-        if(root ==  null) {
+    public static boolean isBalanced(BinNode root, int len) {
+        if (root == null) {
 
         }
         return false;
@@ -365,30 +374,59 @@ public class FindInArray {
 
     public boolean hasCycle(ListNode head) {
         ListNode fast = head;
-        ListNode slow  = head;
-        while(fast != null && fast .next != null) {
+        ListNode slow = head;
+        while (fast != null && fast.next != null) {
             fast = fast.next.next;
             slow = slow.next;
-            if(slow == fast) {
+            if (slow == fast) {
                 break;
             }
         }
         return !(fast == null || fast.next == null);
     }
 
+    static class TreeNode {
+        TreeNode left;
+        TreeNode right;
+        int val;
+        public TreeNode() {
+        }
+    }
+
+    public static List<Integer> inOrderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        LinkedList<TreeNode> stack = new LinkedList<>();
+        if (root == null) {
+            return new ArrayList<>();
+        }
+        TreeNode node = root;
+        while (node != null || !stack.isEmpty()) {
+            while (node != null) {
+                stack.addLast(node);
+                node = node.left;
+            }
+            if((!stack.isEmpty())) {
+                node = stack.removeLast();
+                result.add(node.val);
+                node = node.right;
+            }
+        }
+        return result;
+    }
+
     public ListNode addTwoNumbers(ListNode head1, ListNode head2) {
-        if(head1 == null) {
+        if (head1 == null) {
             return head2;
         }
-        if(head2 == null) {
+        if (head2 == null) {
             return head1;
         }
-        ListNode newNode =  new ListNode(0);
+        ListNode newNode = new ListNode(0);
         ListNode root = newNode;
         ListNode p1 = head1;
         ListNode p2 = head2;
         int carry = 0;
-        while(p1 != null && p2 != null) {
+        while (p1 != null && p2 != null) {
             int sum = p1.val + p2.val + carry;
             p1.val = sum % 10;
             carry = sum / 10;
@@ -397,12 +435,12 @@ public class FindInArray {
             p1 = p1.next;
             p2 = p2.next;
         }
-        if(p1 == null) {
-            newNode.next  =  p2;
+        if (p1 == null) {
+            newNode.next = p2;
         } else {
             newNode.next = p1;
         }
-        if(carry == 1) {
+        if (carry == 1) {
             while (newNode.next != null) {
                 int sum = newNode.next.val + carry;
                 newNode.next.val = sum % 10;
@@ -410,11 +448,12 @@ public class FindInArray {
                 newNode = newNode.next;
             }
         }
-        if(carry == 1) {
+        if (carry == 1) {
             newNode.next = new ListNode(1);
         }
         return root;
     }
+
     public static void main(String[] args) {
 //        char[] arr = new char[10];
 //        arr[0] = '1';
@@ -426,7 +465,6 @@ public class FindInArray {
         //System.out.println((3 & 0x1) == 0);
 //        permutation2("123");
         //System.out.println(testAdd(2));;
-       // testPermutation(new char[]{'1', '2','3'}, 0);
-        dfsDigit(3);
+        testPermutation(new char[]{'1', '2', '3'}, 0);
     }
 }
