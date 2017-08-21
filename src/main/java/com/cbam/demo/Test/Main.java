@@ -21,7 +21,7 @@ package com.cbam.demo.Test;
 // * Modified Reason:
 // */
 //
-//public class Main {
+//public class Main2 {
 ////    public int[] sort(int [] arr) {
 ////        for(int i = 0; i < arr.length - 1; i++) {
 ////            for(int j = 0; j < arr.length - i - 1; j++) {
@@ -64,7 +64,7 @@ package com.cbam.demo.Test;
 //    public static void main(String[] args) {
 //        String str = "aacabbbaaa";
 //
-//        Character ch = new Main().get(str);
+//        Character ch = new Main2().get(str);
 //        System.out.println(ch);
 ////        ExecutorService cachePool = Executors.newCachedThreadPool();
 ////        cachePool.execute(() -> {

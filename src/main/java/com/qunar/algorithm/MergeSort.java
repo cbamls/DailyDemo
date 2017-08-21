@@ -1,9 +1,15 @@
 package com.qunar.algorithm;
 
+import org.aopalliance.intercept.MethodInterceptor;
+
+import java.util.HashMap;
+import java.util.concurrent.atomic.AtomicInteger;
+
 /**
  * Created by ershu.liang on 2017/7/31.
  */
 public class MergeSort {
+
     public static int[] sort(int[] nums, int low, int high) {
         int mid = (low + high) >> 1;
         if (low < high) {
@@ -11,6 +17,7 @@ public class MergeSort {
             sort(nums, mid + 1, high);
             merge(nums, low, mid, high);
         }
+
         return nums;
     }
 
