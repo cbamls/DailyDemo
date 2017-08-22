@@ -3,10 +3,7 @@ package com.cbam.MultiThreadDemo.my;
 import com.google.common.collect.HashMultimap;
 import com.google.common.collect.TreeMultimap;
 
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.TreeMap;
+import java.util.*;
 
 /**
  * Created by ershu.liang on 2017/8/21.
@@ -88,9 +85,18 @@ public class TestHashMultiMap {
 //            System.out.println(seqNum.get());
 //            Thread.sleep(1000000);
 //        }
-        String str = "test";
-        System.out.println(testMethod(str));;
-        System.out.println(str);
+        int[] arr = new int[]{5, 4, 2, 3, 13, 7, 18};
+        List<Integer> list1 = new LinkedList<>();
+        List<Integer> list2 = new ArrayList<>(1000);
+        for(Integer item : arr) {
+            if(item % 2 == 0) {
+                list1.add(item);
+            } else {
+                list2.add(item);
+            }
+        }
+        list1.addAll(list2);
+        System.out.println(list1);
     }
 
     static String testMethod(String str) {
