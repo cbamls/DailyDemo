@@ -6,9 +6,13 @@
 
         <groupId>com.cbam.demo</groupId>
         <artifactId>com.cbam.demo</artifactId>
-        <version>version1.0</version>
+    <packaging>pom</packaging>
+    <version>version1.0</version>
+    <modules>
+        <module>storm</module>
+    </modules>
 
-        <properties>
+    <properties>
             <!-- log4j日志文件管理包版本 -->
             <jackson.version>2.8.1</jackson.version>
             <spring.version>4.0.0.RELEASE</spring.version>
