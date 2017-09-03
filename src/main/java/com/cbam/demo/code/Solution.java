@@ -139,7 +139,7 @@ public class Solution {
 //        TreeNode node3 = new TreeNode(3);
 //        node1.left = node2;
 //        node1.right = node3;
-//        new Solution().inorderTraversal(node1);
+//        new Main2().inorderTraversal(node1);
           List<Character> list =  new Solution().reverseWord(0);
 
         System.out.println(list);
