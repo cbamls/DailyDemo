@@ -6,20 +6,44 @@ import java.util.*;
  * Created by ershu.liang on 2017/8/25.
  */
 public class Main {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        String str = in.nextLine();
-        int k = in.nextInt();
-        Set<Long> st = new TreeSet<>();
-        for (String item : str.split(" ")) {
-            if(item.trim().equals("")) {
-                continue;
+        while (in.hasNextInt()) {
+            int n = in.nextInt();
+            int[] cnt = new int[100002];
+            boolean flag = true;
+            for (int i = 0; i < n; i++) {
+                cnt[i] = in.nextInt();
+                if(cnt[i] == 1 && flag) {
+                    cnt[i] = 0;
+                    flag = false;
+                } else  if(cnt[i] == 0 && !flag) {
+                    flag = true;
+                }
             }
-            st.add(Long.valueOf(item.trim()));
+            if (!flag) {
+                System.out.println("Alice");
+            } else {
+                System.out.println("Bob");
+            }
         }
-        System.out.println(st.toArray()[st.size() - k]);
     }
 }
+//    public static void main(String[] args) {
+//        Scanner in = new Scanner(System.in);
+//        String str = in.nextLine();
+//        int k = in.nextInt();
+//        Set<Long> st = new TreeSet<>();
+//        for (String item : str.split(" ")) {
+//            if(item.trim().equals("")) {
+//                continue;
+//            }
+//            st.add(Long.valueOf(item.trim()));
+//        }
+//        System.out.println(st.toArray()[st.size() - k]);
+//    }
+
 //    public static void main(String[] args) {
 //        Scanner in = new Scanner(System.in);
 //        int[] arr = new int[100003];
