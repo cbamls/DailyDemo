@@ -127,6 +127,8 @@ package com.cbam.demo.Test;
 //    }
 //}
 
+import com.alibaba.druid.support.json.JSONUtils;
+import com.google.common.base.Preconditions;
 import org.springframework.web.servlet.DispatcherServlet;
 
 import java.awt.*;
@@ -134,7 +136,8 @@ import java.awt.*;
 public class Main1 {
     public static void main(String[] args) {
         try {
-            System.out.println(3 / 0);
+            String str = JSONUtils.toJSONString(null);
+            System.out.println(str);
         } catch (Exception e) {
             System.out.println("bam");
             e.printStackTrace();

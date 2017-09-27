@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9fcacc53-2eb2-41ff-8acc-0c05fc8c760c" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/BubbleSort.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/wc/FlowBean.java" afterPath="" />
@@ -16,6 +17,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/lock020/UseManyCondition.java" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/lock020/UseManyCondition.java" />
+=======
+    <list default="true" id="9fcacc53-2eb2-41ff-8acc-0c05fc8c760c" name="Default" comment="排序">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/OptionalTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestStati.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestSync.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main1.java" afterPath="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main1.java" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
     </list>
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,48 +66,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+=======
+      <file leaf-file-name="OptionalTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/OptionalTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="StringToInt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/StringToInt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+=======
+      <file leaf-file-name="AbstractHandlerMapping.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+=======
+      <file leaf-file-name="AbstractHandlerMapping.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5838">
+              <caret line="325" column="40" lean-forward="false" selection-start-line="325" selection-start-column="40" selection-end-line="325" selection-end-column="40" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <folding>
+                <element signature="e#0#13911#0" expanded="false" />
                 <element signature="imports" expanded="false" />
+                <element signature="e#3079#3080#0" expanded="false" />
+                <element signature="e#3105#3106#0" expanded="false" />
+                <element signature="e#3148#3149#0" expanded="false" />
+                <element signature="e#3173#3174#0" expanded="false" />
+                <element signature="e#3425#3426#0" expanded="false" />
+                <element signature="e#3468#3469#0" expanded="false" />
+                <element signature="e#3602#3603#0" expanded="false" />
+                <element signature="e#3635#3636#0" expanded="false" />
+                <element signature="e#4498#4499#0" expanded="false" />
+                <element signature="e#4547#4548#0" expanded="false" />
+                <element signature="e#5478#5479#0" expanded="false" />
+                <element signature="e#5505#5506#0" expanded="false" />
+                <element signature="e#6012#6013#0" expanded="false" />
+                <element signature="e#6042#6043#0" expanded="false" />
+                <element signature="e#6691#6692#0" expanded="false" />
+                <element signature="e#6751#6752#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
               <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding />
+=======
+      <file leaf-file-name="AbstractHandlerMethodMapping.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3738">
+              <caret line="219" column="59" lean-forward="false" selection-start-line="219" selection-start-column="59" selection-end-line="219" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#13051#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3138#3139#0" expanded="false" />
+                <element signature="e#3200#3201#0" expanded="false" />
+                <element signature="e#3305#3306#0" expanded="false" />
+                <element signature="e#3332#3333#0" expanded="false" />
+                <element signature="e#5150#5151#0" expanded="false" />
+                <element signature="e#5213#5214#0" expanded="false" />
+                <element signature="e#12668#12669#0" expanded="false" />
+                <element signature="e#12707#12708#0" expanded="false" />
+                <element signature="e#12871#12872#0" expanded="false" />
+                <element signature="e#12908#12909#0" expanded="false" />
+                <element signature="e#12972#12973#0" expanded="false" />
+                <element signature="e#13043#13044#0" expanded="false" />
+              </folding>
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="UseManyCondition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/lock020/UseManyCondition.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,10 +190,42 @@
                 <element signature="e#2486#2487#0" expanded="false" />
                 <element signature="e#2505#2506#0" expanded="false" />
               </folding>
+=======
+      <file leaf-file-name="UrlPathHelper.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE-sources.jar!/org/springframework/web/util/UrlPathHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2310">
+              <caret line="147" column="36" lean-forward="false" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#20217#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2699#2700#0" expanded="false" />
+                <element signature="e#2748#2749#0" expanded="false" />
+                <element signature="e#3353#3354#0" expanded="false" />
+                <element signature="e#3386#3387#0" expanded="false" />
+                <element signature="e#3770#3771#0" expanded="false" />
+                <element signature="e#3811#3812#0" expanded="false" />
+                <element signature="e#4530#4531#0" expanded="false" />
+                <element signature="e#4575#4576#0" expanded="false" />
+                <element signature="e#4694#4695#0" expanded="false" />
+                <element signature="e#4728#4729#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="139" column="36" lean-forward="true" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+              <folding />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,20 +234,37 @@
               <folding>
                 <marker date="1506509388106" expanded="true" signature="136057:136145" ph="..." />
               </folding>
+=======
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="37" column="40" lean-forward="false" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+              <folding />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="SafeDoubleCheckedLocking.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/SafeDoubleCheckedLocking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
               <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+=======
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="AppealTypeEnum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/AppealTypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -167,11 +294,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+=======
+      <file leaf-file-name="beans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="DoubleReverseList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/DoubleReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -192,6 +327,15 @@
                 <element signature="e#778#779#0" expanded="false" />
                 <element signature="e#825#826#0" expanded="false" />
                 <element signature="e#857#858#0" expanded="false" />
+=======
+      <file leaf-file-name="HandlerMapping.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerMapping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2394">
+              <caret line="128" column="36" lean-forward="false" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#6396#0" expanded="false" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               </folding>
             </state>
           </provider>
@@ -208,6 +352,38 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>execute</find>
+      <find>run</find>
+      <find>.run()</find>
+      <find>.run</find>
+      <find>runWorker</find>
+      <find>Fixed</find>
+      <find>newCachedThreadPool</find>
+      <find>newFixedThreadPool</find>
+      <find>do</find>
+      <find>initWebApplicationContext</find>
+      <find>doSer</find>
+      <find>onApplicationEvent</find>
+      <find>refresh</find>
+      <find>processRe</find>
+      <find>equals</find>
+      <find>hashCode</find>
+      <find>hash</find>
+      <find>put</find>
+      <find>ThreadLocalMap</find>
+      <find>En</find>
+      <find>C</find>
+      <find>Com</find>
+      <find>Comp</find>
+      <find>addAll</find>
+      <find>getHandler</find>
+    </findStrings>
+  </component>
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -219,11 +395,52 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/proxy/HelloImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/proxy/Tran.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/proxy/TestProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/proxy/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/Host.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/ProxyInovationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/Rent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/TestEnumMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/FindInArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/code/TestException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/code/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/lock020/TestHoldCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/sync002/MultiThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/CPU_SINA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/sync005/SyncDubbo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/sync005/SyncException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/sync006/StringLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/CPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/MyClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/MyClassLoaderTwoo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/TestSingleLetonGC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/AppealTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/MyClassLoaderTwo.java" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
         <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/StringToInt.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/qunar/algorithm/BubbleSort.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/lock020/UseManyCondition.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestStati.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/OptionalTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main1.java" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       </list>
     </option>
   </component>
@@ -272,6 +489,10 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -561,7 +782,10 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="cbam" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -575,6 +799,17 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="concurrent018" />
+=======
+              <option name="myItemId" value="DailyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -596,6 +831,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -617,6 +853,9 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="concurrent017" />
+=======
+              <option name="myItemId" value="resources" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -641,6 +880,7 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -653,6 +893,8 @@
               <option name="myItemId" value="MultiThreadDemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+=======
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -679,6 +921,7 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="cbam" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -691,6 +934,8 @@
               <option name="myItemId" value="sync007" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+=======
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -719,6 +964,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cbam" />
+<<<<<<< HEAD
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -803,6 +1049,8 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sync004" />
+=======
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -957,32 +1205,6 @@
               <option name="myItemId" value="lock021" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DailyDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DailyDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cbam" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -1033,10 +1255,99 @@
               <option name="myItemId" value="Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
             <PATH_ELEMENT>
+              <option name="myItemId" value="TestStati.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cbam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="DoubleReverseList.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
+=======
+              <option name="myItemId" value="TestException.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cbam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="referenceAop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1074,7 +1385,10 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1083,6 +1397,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.BubbleSort">
     <configuration default="false" name="SyncException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -1092,6 +1407,50 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.cbam.MultiThreadDemo.sync005.SyncException" />
+=======
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cbam.demo.referenceAop" />
+      <recent name="com.cbam.demo.javaConfigAop" />
+      <recent name="com.cbam.demo.argsAop" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cbam.demo.Test" />
+      <recent name="com.cbam.demo.referenceAop" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workplace\demo\src\main\java" />
+      <recent name="E:\workplace\demo\src\main\java\com\cbam\demo\hrbust" />
+      <recent name="E:\workplace\demo\src\test\java\com\cbam\demo\dynamicProxy" />
+      <recent name="E:\workplace\demo\target\test-classes\com\cbam\demo\dynamicProxy" />
+      <recent name="E:\workplace\demo\src\main\java\com\cbam\zookeeper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main1">
+    <configuration default="false" name="TestStati" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cbam.demo.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cbam.demo.Test.TestStati" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1104,6 +1463,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="StringLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1112,6 +1472,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.cbam.MultiThreadDemo.sync006.StringLock" />
+=======
+    <configuration default="false" name="OptionalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cbam.demo.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cbam.demo.Test.OptionalTest" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1124,6 +1494,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="TestSingleLetonGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1135,6 +1506,19 @@
       <option name="VM_PARAMETERS" value="-verbose:gc" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+=======
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cbam.demo.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cbam.demo.Test.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -1144,6 +1528,7 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="UseManyCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1152,6 +1537,16 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.cbam.MultiThreadDemo.lock020.UseManyCondition" />
+=======
+    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cbam.demo.referenceAop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cbam.demo.referenceAop.Main" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1164,14 +1559,22 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
+    <configuration default="false" name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.qunar.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="com.qunar.algorithm.BubbleSort" />
+=======
+      <option name="MAIN_CLASS_NAME" value="com.cbam.demo.Test.Main1" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1734,6 +2137,7 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.demo" />
+<<<<<<< HEAD
       <item index="1" class="java.lang.String" itemvalue="Application.SyncException" />
       <item index="2" class="java.lang.String" itemvalue="Application.StringLock" />
       <item index="3" class="java.lang.String" itemvalue="Application.TestSingleLetonGC" />
@@ -1747,6 +2151,21 @@
         <item index="2" class="java.lang.String" itemvalue="Application.TestSingleLetonGC" />
         <item index="3" class="java.lang.String" itemvalue="Application.StringLock" />
         <item index="4" class="java.lang.String" itemvalue="Application.SyncException" />
+=======
+      <item index="1" class="java.lang.String" itemvalue="Application.TestStati" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OptionalTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Main1" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OptionalTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestStati" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -1790,12 +2209,94 @@
       <created>1506509319890</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1506509319890</updated>
       <workItem from="1506509346259" duration="63000" />
+=======
+      <updated>1477225992388</updated>
+      <workItem from="1477226002275" duration="13561000" />
+      <workItem from="1477357592082" duration="1454000" />
+      <workItem from="1482131475083" duration="18615000" />
+      <workItem from="1482226833991" duration="1246000" />
+      <workItem from="1483414276528" duration="3282000" />
+      <workItem from="1484273186037" duration="597000" />
+      <workItem from="1484476574999" duration="5035000" />
+      <workItem from="1484629646213" duration="2475000" />
+      <workItem from="1484815279702" duration="27000" />
+      <workItem from="1484914580497" duration="1773000" />
+      <workItem from="1484972266447" duration="9465000" />
+      <workItem from="1485066291913" duration="8641000" />
+      <workItem from="1485421371577" duration="25773000" />
+      <workItem from="1485785728180" duration="7374000" />
+      <workItem from="1485831321080" duration="41569000" />
+      <workItem from="1486182353987" duration="404000" />
+      <workItem from="1486183446833" duration="13795000" />
+      <workItem from="1486317060636" duration="393000" />
+      <workItem from="1486317506440" duration="15798000" />
+      <workItem from="1486702058615" duration="652000" />
+      <workItem from="1486712679368" duration="1298000" />
+      <workItem from="1487136558602" duration="1385000" />
+      <workItem from="1487210716633" duration="8449000" />
+      <workItem from="1487474231687" duration="1262000" />
+      <workItem from="1487577639445" duration="1960000" />
+      <workItem from="1487590970074" duration="5970000" />
+      <workItem from="1487733471747" duration="2082000" />
+      <workItem from="1487819771232" duration="617000" />
+      <workItem from="1488105809078" duration="2231000" />
+      <workItem from="1488343281037" duration="8313000" />
+      <workItem from="1488523669711" duration="3504000" />
+      <workItem from="1488604182024" duration="7576000" />
+      <workItem from="1488681774144" duration="34971000" />
+      <workItem from="1489390927535" duration="16696000" />
+      <workItem from="1489734898235" duration="2687000" />
+      <workItem from="1489819953300" duration="58489000" />
+      <workItem from="1490405527085" duration="7792000" />
+      <workItem from="1490770593383" duration="21285000" />
+      <workItem from="1490925025626" duration="692000" />
+      <workItem from="1491050877320" duration="1470000" />
+      <workItem from="1491485737613" duration="8881000" />
+      <workItem from="1491701880663" duration="239000" />
+      <workItem from="1491710707458" duration="13640000" />
+      <workItem from="1491882373975" duration="3153000" />
+      <workItem from="1491996344118" duration="492000" />
+      <workItem from="1493559654502" duration="854000" />
+      <workItem from="1494840180398" duration="130000" />
+      <workItem from="1498722197571" duration="3199000" />
+      <workItem from="1499155138729" duration="27836000" />
+      <workItem from="1499829913834" duration="22113000" />
+      <workItem from="1499918682277" duration="12052000" />
+      <workItem from="1500529294328" duration="10571000" />
+      <workItem from="1500892036892" duration="1629000" />
+      <workItem from="1500979487737" duration="25600000" />
+      <workItem from="1501469700448" duration="3746000" />
+      <workItem from="1501506478400" duration="21166000" />
+      <workItem from="1502939809825" duration="599000" />
+      <workItem from="1503284665059" duration="26857000" />
+      <workItem from="1503732747178" duration="3254000" />
+      <workItem from="1503888072592" duration="10386000" />
+      <workItem from="1504503288204" duration="4527000" />
+      <workItem from="1505372458620" duration="4696000" />
+      <workItem from="1505448471611" duration="2503000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1482149739959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1482149739959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Thread">
+      <created>1485441003853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485441003853</updated>
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="853000" />
   </component>
   <component name="ToolWindowManager">
@@ -1807,6 +2308,16 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="568781000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29109588" sideWeight="0.5244275" order="17" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.4869281" order="8" side_tool="false" content_ui="tabs" />
@@ -1825,13 +2336,34 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36412212" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3458904" sideWeight="0.4552352" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3030822" sideWeight="0.47881997" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.47557253" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05308219" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.4969743" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5650685" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28895614" sideWeight="0.4707379" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27458397" sideWeight="0.53002614" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27458397" sideWeight="0.52926207" order="7" side_tool="true" content_ui="tabs" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1839,6 +2371,10 @@
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3030822" sideWeight="0.47881997" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Memory View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3458904" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5130719" order="12" side_tool="true" content_ui="tabs" />
@@ -1849,24 +2385,36 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29109588" sideWeight="0.5244275" order="17" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.4869281" order="8" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30332828" sideWeight="0.4869281" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="Memory View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36081696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7910959" sideWeight="0.4552352" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3458904" sideWeight="0.4552352" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3030822" sideWeight="0.47881997" order="10" side_tool="false" content_ui="tabs" />
@@ -1875,6 +2423,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27739727" sideWeight="0.47557253" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3458904" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5130719" order="12" side_tool="true" content_ui="tabs" />
@@ -1882,12 +2431,27 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3321918" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.059931505" sideWeight="0.5030349" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41679275" sideWeight="0.48060346" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05308219" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.47557253" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32526475" sideWeight="0.5130719" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.4969743" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56514084" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.059931505" sideWeight="0.5030349" order="16" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28895614" sideWeight="0.4707379" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17867868" sideWeight="0.51939654" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27458397" sideWeight="0.53002614" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270548" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27458397" sideWeight="0.52926207" order="7" side_tool="true" content_ui="tabs" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1916,7 +2480,11 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
+<<<<<<< HEAD
       <option name="time" value="130" />
+=======
+      <option name="time" value="149" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1925,6 +2493,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/CPU.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -2222,18 +2791,344 @@
             <element signature="e#778#779#0" expanded="false" />
             <element signature="e#825#826#0" expanded="false" />
             <element signature="e#857#858#0" expanded="false" />
-          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/TestHashMultiMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="441">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/my/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/sync003/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/hrbust/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="296" column="36" lean-forward="false" selection-start-line="296" selection-start-column="36" selection-end-line="296" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/sync002/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/StringToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/AbstractSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="84" column="14" lean-forward="false" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="255" column="11" lean-forward="false" selection-start-line="255" selection-start-column="11" selection-end-line="255" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="749" column="5" lean-forward="false" selection-start-line="749" selection-start-column="5" selection-end-line="749" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#626#889#0" expanded="false" />
+            <element signature="e#888#889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storm/src/main/java/com/qunar/SplitBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storm/src/main/java/com/qunar/CountBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storm/src/main/java/com/qunar/Spout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storm/src/main/java/com/qunar/WordCountByStorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/argsAop/CompactDisc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/argsAop/CDPlayerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/argsAop/CDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/argsAop/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/argsAop/TrackCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/DefaultEncore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/Encoreable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/Perform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/aop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/aop/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/aop/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/aop/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/aop/LogUserDef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#563#564#0" expanded="false" />
+            <element signature="e#607#608#0" expanded="false" />
+            <element signature="e#626#627#0" expanded="false" />
+            <element signature="e#669#670#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/Host.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="55" lean-forward="false" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/dynamicproxy/ProxyInovationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14595">
+          <caret line="738" column="28" lean-forward="false" selection-start-line="738" selection-start-column="28" selection-end-line="738" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="421" column="38" lean-forward="false" selection-start-line="421" selection-start-column="38" selection-end-line="421" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#205#206#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/TestStati.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#331#332#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#745#746#0" expanded="false" />
+            <element signature="e#802#803#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/base/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15813">
+          <caret line="767" column="22" lean-forward="false" selection-start-line="767" selection-start-column="22" selection-end-line="767" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/base/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="124" column="4" lean-forward="false" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/collect/ListMultimap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#3429#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/OptionalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/StringToInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -2248,16 +3143,91 @@
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="false" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="128" column="36" lean-forward="false" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#6396#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5838">
+          <caret line="325" column="40" lean-forward="false" selection-start-line="325" selection-start-column="40" selection-end-line="325" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13911#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3079#3080#0" expanded="false" />
+            <element signature="e#3105#3106#0" expanded="false" />
+            <element signature="e#3148#3149#0" expanded="false" />
+            <element signature="e#3173#3174#0" expanded="false" />
+            <element signature="e#3425#3426#0" expanded="false" />
+            <element signature="e#3468#3469#0" expanded="false" />
+            <element signature="e#3602#3603#0" expanded="false" />
+            <element signature="e#3635#3636#0" expanded="false" />
+            <element signature="e#4498#4499#0" expanded="false" />
+            <element signature="e#4547#4548#0" expanded="false" />
+            <element signature="e#5478#5479#0" expanded="false" />
+            <element signature="e#5505#5506#0" expanded="false" />
+            <element signature="e#6012#6013#0" expanded="false" />
+            <element signature="e#6042#6043#0" expanded="false" />
+            <element signature="e#6691#6692#0" expanded="false" />
+            <element signature="e#6751#6752#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3738">
+          <caret line="219" column="59" lean-forward="false" selection-start-line="219" selection-start-column="59" selection-end-line="219" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#13051#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3138#3139#0" expanded="false" />
+            <element signature="e#3200#3201#0" expanded="false" />
+            <element signature="e#3305#3306#0" expanded="false" />
+            <element signature="e#3332#3333#0" expanded="false" />
+            <element signature="e#5150#5151#0" expanded="false" />
+            <element signature="e#5213#5214#0" expanded="false" />
+            <element signature="e#12668#12669#0" expanded="false" />
+            <element signature="e#12707#12708#0" expanded="false" />
+            <element signature="e#12871#12872#0" expanded="false" />
+            <element signature="e#12908#12909#0" expanded="false" />
+            <element signature="e#12972#12973#0" expanded="false" />
+            <element signature="e#13043#13044#0" expanded="false" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/MultiThreadDemo/lock020/UseManyCondition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
           <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE-sources.jar!/org/springframework/web/util/UrlPathHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="147" column="36" lean-forward="false" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
           <folding>
+            <element signature="e#0#20217#0" expanded="false" />
             <element signature="imports" expanded="false" />
+<<<<<<< HEAD
             <element signature="e#2162#2163#0" expanded="false" />
             <element signature="e#2181#2182#0" expanded="false" />
             <element signature="e#2270#2271#0" expanded="false" />
@@ -2266,10 +3236,23 @@
             <element signature="e#2397#2398#0" expanded="false" />
             <element signature="e#2486#2487#0" expanded="false" />
             <element signature="e#2505#2506#0" expanded="false" />
+=======
+            <element signature="e#2699#2700#0" expanded="false" />
+            <element signature="e#2748#2749#0" expanded="false" />
+            <element signature="e#3353#3354#0" expanded="false" />
+            <element signature="e#3386#3387#0" expanded="false" />
+            <element signature="e#3770#3771#0" expanded="false" />
+            <element signature="e#3811#3812#0" expanded="false" />
+            <element signature="e#4530#4531#0" expanded="false" />
+            <element signature="e#4575#4576#0" expanded="false" />
+            <element signature="e#4694#4695#0" expanded="false" />
+            <element signature="e#4728#4729#0" expanded="false" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2284,10 +3267,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="40" lean-forward="false" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/referenceAop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/algorithm/AppealTypeEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -2314,6 +3312,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cbam/demo/Test/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="139" column="36" lean-forward="true" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+>>>>>>> c9d42f05be0ceb75495c939e11f731309c303a42
           <folding />
         </state>
       </provider>
