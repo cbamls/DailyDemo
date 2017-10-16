@@ -43,7 +43,6 @@ public class UseManyCondition {
 		try {
 			lock.lock();
 			System.out.println("当前线程：" +Thread.currentThread().getName() + "进入方法m3等待..");
-			c2.await();
 			System.out.println("当前线程：" +Thread.currentThread().getName() + "方法m3继续..");
 		} catch (Exception e) {
 			e.printStackTrace();

@@ -44,6 +44,7 @@ class DoubleNode<T> {
         this.next = next;
     }
 }
+
 public class DoubleReverseList<T> {
 
     public DoubleNode<T> reverseList(DoubleNode<T> head) {

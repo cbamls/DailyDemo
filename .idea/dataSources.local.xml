@@ -4,9 +4,6 @@
     <data-source name="MySQL - @localhost" uuid="6a984578-1da0-465d-be10-b0fbde090cd4">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
       <secret-storage>master_key</secret-storage>
-      <introspection-schemas>*:test</introspection-schemas>
-      <resolve-scope>*:test</resolve-scope>
-      <unqualified-resolve-schemas>*:test</unqualified-resolve-schemas>
     </data-source>
   </component>
 </project>

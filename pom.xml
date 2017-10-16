@@ -10,6 +10,7 @@
     <version>version1.0</version>
     <modules>
         <module>storm</module>
+        <module>jdk9</module>
     </modules>
 
     <properties>
